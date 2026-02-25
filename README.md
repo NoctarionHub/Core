@@ -7,7 +7,7 @@
   <p>
     <img src="https://img.shields.io/badge/Status-UnderWork%20in%20Shadows-00ff9d?style=for-the-badge&labelColor=000000">
     <img src="https://img.shields.io/badge/Protected-Void%20API-8b00ff?style=for-the-badge&labelColor=000000">
-    <img src="https://img.shields.io/badge/Version-1.0-00ff9d?style=for-the-badge&labelColor=000000">
+    <img src="https://img.shields.io/badge/Version-0-00ff9d?style=for-the-badge&labelColor=000000">
   </p>
 </div>
 
