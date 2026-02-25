@@ -1,0 +1,48 @@
+# Vercel
+.vercel
+.next/
+out/
+node_modules/
+
+# Environment
+.env
+.env.*
+*.env
+*.key
+*.secret
+
+# Logs & Temp
+*.log
+logs/
+tmp/
+temp/
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# OS Files
+.DS_Store
+desktop.ini
+
+# Build & Dist
+dist/
+build/
+bin/
+
+# Python/JS cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Misc
+*.bak
+*.tmp
+*.old
+
+# Optional: ignore Lua asli kalau sudah di-hardcode
+premium_original.lua
+script_raw.lua
